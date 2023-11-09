@@ -36,10 +36,7 @@
     <br />
     <br />
 <!--     <a href="https://popdev.online">View Demo</a> -->
-    ·
-    <a href="https://github.com/ccmanganti/fms/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ccmanganti/fms/issues">Request Feature</a>
+ 
   </p>
 </div>
 
@@ -117,8 +114,7 @@ Follow these steps to install and set up your Laravel project:
 Clone the repository:
 
  ```sh
-    git clone https://github.com/ccmanganti/fms.git
-   ```
+
 
 Install dependencies:
 
@@ -195,9 +191,7 @@ Usage desciption here...
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@ccmanganti](https://facebook.com/ccmanganti) - cpe.christopherclarkcmanganti@gmail.com
 
-Project Link: [https://github.com/ccmanganti/fms](https://github.com/ccmanganti/fms)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
